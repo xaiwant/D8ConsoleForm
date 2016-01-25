@@ -1,0 +1,14 @@
+{
+  "name": "drupal/contact_us",
+  "type": "drupal-module",
+  "description": "creating custom contact us form with few fields",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/contact_us",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/contact_us",
+    "source": "http://cgit.drupalcode.org/contact_us"
+  },
+  "require": { }
+}
